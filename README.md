@@ -4,7 +4,7 @@
 <a href='https://linkedin.com/in/chaima-attafi-914a56208'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 <br/>
-A software engineer with a background in AI and urban planning, passionate about leveraging technology to support sustainable projects. Eager to learn and contribute, especially to research that connects AI with real-world impact.
+A software engineer with a background in AI, passionate about leveraging technology to support sustainable projects. Eager to learn and contribute, especially to research that connects AI with real-world impact.
 ￼
 . 
 <br/>
